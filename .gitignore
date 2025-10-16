@@ -63,7 +63,7 @@ reports/
 figures/
 
 # Datasets (avoid committing large raw data)
-# Dataset/**/*.csv
+Dataset/**/*.csv
 Dataset/**/*.tsv
 Dataset/**/*.parquet
 Dataset/**/*.xlsx
